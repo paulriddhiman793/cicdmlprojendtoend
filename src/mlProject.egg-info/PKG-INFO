@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: mlProject
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/Riddhiman Paul/End-to-end-ML-Project-with-MLflow
+Author: Riddhiman Paul
+Author-email: paulriddhiman793@gmail.com
+Project-URL: Bug Tracker, https://github.com/Riddhiman Paul/End-to-end-ML-Project-with-MLflow/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# cicdmlprojendtoend
